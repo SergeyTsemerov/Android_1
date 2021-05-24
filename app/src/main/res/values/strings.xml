@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Android1</string>
+    <string name="task_1">Task 1!</string>
+    <string name="task1">Task1</string>
+    <string name="big_button">Big Button</string>
+    <string name="switcher">Switcher</string>
+    <string name="forever">For</string>
+    <string name="against">Against</string>
+    <string name="always_off">Always Off</string>
+    <string name="dead">Dead</string>
+    <string name="alive">Alive</string>
+    <string name="input_text">Input text</string>
+    <string name="input_your_id_number">Input your id number</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="passport_number">Passport number</string>
+    <string name="id">Id</string>
+    <string name="type_something_right_here">Type something right here</string>
 </resources>
