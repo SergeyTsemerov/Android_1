@@ -18,4 +18,6 @@
     <string name="passport_number">Passport number</string>
     <string name="id">Id</string>
     <string name="type_something_right_here">Type something right here</string>
+    <string name="first_task">Task 1</string>
+    <string name="tasks_2_3">Tasks 2,3</string>
 </resources>
